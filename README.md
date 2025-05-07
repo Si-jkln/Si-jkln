@@ -32,3 +32,5 @@
 ### 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jussiani-da-silva-machado-4085261a8/)
+[![DIO](https://img.shields.io/badge/DIO-12100E?style=flat&logo=academia&logoColor=white)](https://web.dio.me/users/jussianidasilvamachado075)
+
